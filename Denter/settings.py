@@ -25,7 +25,7 @@ SECRET_KEY = 'va%**e#^#hdu^@t@j9694wy-xoaa7u$4t***h*kjgcnaeadw^k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['denterweb.herokuapp.com']
 
 
 # Application definition
